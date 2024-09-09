@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react_img_gallery/static/css/main.cb5ad26c.css",
+    "main.js": "/react_img_gallery/static/js/main.b6427a3e.js",
+    "static/js/453.fe5b1732.chunk.js": "/react_img_gallery/static/js/453.fe5b1732.chunk.js",
+    "static/media/toddler-8297939_1280.jpg": "/react_img_gallery/static/media/toddler-8297939_1280.8608d3fad0160bf61855.jpg",
+    "static/media/flowers-8266580_1280.jpg": "/react_img_gallery/static/media/flowers-8266580_1280.2253a8cf9a77d08dd136.jpg",
+    "static/media/sample3.jpg": "/react_img_gallery/static/media/sample3.11fdb1564a4dc46e6944.jpg",
+    "static/media/sample1.jpg": "/react_img_gallery/static/media/sample1.2844af4ca6db4d268efc.jpg",
+    "static/media/sketch-8825072_1280.jpg": "/react_img_gallery/static/media/sketch-8825072_1280.8bf45506ee3155c38afd.jpg",
+    "static/media/sample2.jpg": "/react_img_gallery/static/media/sample2.e25bb2bc33d485418b12.jpg",
+    "index.html": "/react_img_gallery/index.html",
+    "main.cb5ad26c.css.map": "/react_img_gallery/static/css/main.cb5ad26c.css.map",
+    "main.b6427a3e.js.map": "/react_img_gallery/static/js/main.b6427a3e.js.map",
+    "453.fe5b1732.chunk.js.map": "/react_img_gallery/static/js/453.fe5b1732.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb5ad26c.css",
+    "static/js/main.b6427a3e.js"
+  ]
+}
