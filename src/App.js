@@ -1,6 +1,6 @@
 import 'react-image-gallery/styles/css/image-gallery.css';
 import ImageGallery from "react-image-gallery";
-
+import "./App.css"
 const importAll = (r) => r.keys().map(r);
 const images = importAll(require.context('./images', false, /\.(jpg)$/));
 
@@ -15,9 +15,10 @@ function App() {
 
   return (
     <>
+      <h1>The best Gallery Ever</h1>
       <ImageGallery
         items={imageItems}
-        showThumbnails={false}
+        showThumbnails={true}
         autoPlay={true}
         showFullscreenButton={false}
         showNav={false}

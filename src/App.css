@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Handjet:wght@100..900&family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Kalnia+Glaze:wght@100..700&family=Lobster&family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto+Slab:wght@100..900&display=swap');
+
+h1 {
+    font-family: "Black Ops One";
+    color: hotpink;
+}
